@@ -6,12 +6,12 @@
 
 # Languages
 
-[x] Python
-[ ] Javascript
-[ ] Java
-[ ] C#
-[ ] Batch?
-[ ] Go
-[ ] C++
-[ ] C
+- [x] Python
+- [ ] Javascript
+- [ ] Java
+- [ ] C#
+- [ ] Batch?
+- [ ] Go
+- [ ] C++
+- [ ] C
 
