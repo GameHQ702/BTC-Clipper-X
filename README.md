@@ -15,3 +15,7 @@
 - [ ] C++
 - [ ] C
 
+
+# How it works?
+
+> For Python
