@@ -18,7 +18,6 @@
 
 # How it works?
 
-
 ## Python
 
 ### Installation
