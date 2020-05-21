@@ -18,8 +18,8 @@
 
 # How it works?
 
-## Python
+### Python
 
-### Installation
+ **Installation**:
 
-### Usage
+ **Usage**:
