@@ -18,4 +18,9 @@
 
 # How it works?
 
-> For Python
+
+## Python
+
+### Installation
+
+### Usage
