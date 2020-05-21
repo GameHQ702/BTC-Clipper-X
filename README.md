@@ -16,9 +16,7 @@
 - [ ] C
 
 
-# How it works?
-
-### Python
+# Python
 
  **Installation**:
 
